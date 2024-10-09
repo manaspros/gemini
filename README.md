@@ -13,8 +13,8 @@ This is a copy of the Gemini project that I am working on. It aims to provide ad
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/your-username/gemini-project.git
-    cd gemini-project
+    git clone https://github.com/manaspros/gemini.git
+    cd gemini
     ```
 
 2. Install the dependencies:
